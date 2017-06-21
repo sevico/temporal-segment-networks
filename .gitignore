@@ -7,7 +7,6 @@ logs/
 data/
 
 # model folder
-models/
 
 # IDEA project configs
 .idea/
