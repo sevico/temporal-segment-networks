@@ -4,7 +4,6 @@ logs/
 3rd-party/
 
 # data files
-data/
 
 # model folder
 
@@ -100,3 +99,4 @@ ENV/
 
 # Rope project settings
 .ropeproject
+build_all.sh
